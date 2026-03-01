@@ -19,11 +19,19 @@ Version Control: Implementation of Git for collaborative development, branch man
 IDE: Use of VSCode (Visual Studio Code) with Go and Python extensions for optimized coding, debugging, and terminal integration.
 Additional Dependencies: Includes requests for the AI scanner, golang.org/x/sys for low-level Windows interactions, and netsh utility access for network isolation commands.
 ## System Architecture
-image
+
+<img width="1027" height="514" alt="556388613-62c71d51-bcd5-44df-ac80-2d70f1d8eb52" src="https://github.com/user-attachments/assets/539803e4-a0e8-4e4a-9645-cef1016a25ba" />
+
 ## Output
 Output1 - AI Detection and Alerts
+<img width="1027" height="433" alt="556389626-cdf9edc6-1d55-40cc-87dd-86a02ad11ad6" src="https://github.com/user-attachments/assets/fa5f7c24-ede5-4c3b-9a03-30a68ae4b0ef" />
+
+
 ## image
 Output2 - AI Auto Isolation
+<img width="1027" height="494" alt="556389694-572336ba-c224-4705-8882-6d798084770d@" src="https://github.com/user-attachments/assets/041f14fd-7af9-4c93-9c63-8d6d7d04c570" />
+
+
 ## image
 Detection Accuracy: 98.5% (Based on internal malware signature and behavioral analysis) Note: These metrics can be customized based on your actual performance evaluations.
 
